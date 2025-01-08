@@ -1,0 +1,2 @@
+# KougyouNougyou
+https://chatgpt.com
