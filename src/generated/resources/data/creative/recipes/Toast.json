@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": {
+    "item": "sakalti:toast",
+    "count": 1
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}
