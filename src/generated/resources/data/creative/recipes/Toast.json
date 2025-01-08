@@ -4,7 +4,7 @@
     "item": "minecraft:bread"
   },
   "result": {
-    "item": "sakalti:toast",
+    "item": "creative:toast",
     "count": 1
   },
   "experience": 0.35,
